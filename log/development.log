@@ -1,0 +1,109 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-30 13:37:27 -0600
+
+PGError (could not connect to server: Permission denied
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/pgsql_socket/.s.PGSQL.5432"?
+):
+  
+
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.7ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-30 13:56:27 -0600
+
+PGError (could not connect to server: Permission denied
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/pgsql_socket/.s.PGSQL.5432"?
+):
+  
+
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.8ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-30 13:56:36 -0600
+
+PGError (could not connect to server: Permission denied
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/pgsql_socket/.s.PGSQL.5432"?
+):
+  
+
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.8ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2011-11-30 13:56:39 -0600
+
+PGError (could not connect to server: Permission denied
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/pgsql_socket/.s.PGSQL.5432"?
+):
+  
+
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.3ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-30 13:56:51 -0600
+
+PGError (could not connect to server: Permission denied
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/pgsql_socket/.s.PGSQL.5432"?
+):
+  
+
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.6ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2011-11-30 13:56:53 -0600
+
+PGError (could not connect to server: Permission denied
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/pgsql_socket/.s.PGSQL.5432"?
+):
+  
+
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.4ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-30 13:57:17 -0600
+
+PGError (could not connect to server: Permission denied
+	Is the server running locally and accepting
+	connections on Unix domain socket "/var/pgsql_socket/.s.PGSQL.5432"?
+):
+  
+
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.1ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-30 14:07:32 -0600
+
+PGError (FATAL:  database "mike" does not exist
+):
+  
+
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.2ms)
+Rendered /usr/local/Cellar/ruby/1.9.3-p0/lib/ruby/gems/1.9.1/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.6ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2011-11-30 14:08:29 -0600
+  [1m[36m (0.3ms)[0m  [1mSHOW search_path[0m
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (2.1ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
