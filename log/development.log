@@ -184,3 +184,31 @@ Served asset /users.js - 200 OK (1ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-12-01 08:17:48 -0600
 Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2011-12-01 08:20:39 -0600
+  [1m[36m (0.2ms)[0m  [1mSHOW search_path[0m
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.5ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (17.5ms)
+Completed 200 OK in 46ms (Views: 45.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-12-01 08:20:39 -0600
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-12-01 08:20:39 -0600
+Served asset /users.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-12-01 08:20:39 -0600
+Served asset /users.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2011-12-01 08:20:39 -0600
+Served asset /scaffolds.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-12-01 08:20:39 -0600
+Served asset /application.js - 304 Not Modified (0ms)
