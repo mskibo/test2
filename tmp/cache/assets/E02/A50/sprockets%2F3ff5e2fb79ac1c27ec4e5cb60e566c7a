@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1323183318.064068:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1323188369.277608:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%bc673814aa893bdec63f2a09db95bc8dI"logical_path;
+F"%42f9ef996bb49767893b22df8db7d550I"logical_path;
 F"jquery_ujs.jsI"pathname;
 F"d/usr/local/lib/ruby/gems/1.9.1/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.jsI"content_type;
 FI"application/javascript;
